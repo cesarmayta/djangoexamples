@@ -1,0 +1,2 @@
+# djangoexamples
+examples in django
